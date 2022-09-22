@@ -38,3 +38,8 @@ models:
         meta:
           dimension:
             type: string
+      - name: event_id2
+        description: "FICKDEINEMUDDA"
+        meta:
+          dimension:
+            type: string
